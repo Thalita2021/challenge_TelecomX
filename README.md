@@ -1,4 +1,5 @@
 # challenge_TelecomX
+https://colab.research.google.com/drive/1L4nStlthT8VTFYifut-nhtxTLJOfrBk8#scrollTo=x31ObwBkzg8R 
 Desafio Alura - Challehge TelecomX
 Este relatório apresenta uma análise exploratória detalhada dos dados de clientes da TelecomX. Nosso objetivo principal é identificar padrões e fatores que contribuem para a evasão de clientes, também conhecida como churn. Através de estatísticas descritivas e visualizações gráficas, buscamos entender o comportamento dos clientes e a distribuição das variáveis, fornecendo insights valiosos para futuras estratégias de retenção.
 
